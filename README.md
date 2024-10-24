@@ -1,4 +1,4 @@
-# Island Adventure Game
+# The Island Adventure Game
 
 ## Project Overview
 
